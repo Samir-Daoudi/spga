@@ -1,6 +1,6 @@
 # spga
 <h1>SharePoint - Google Analyitcs Integration</h1><br/>
-<img src="https://daoudisamir.com/wp-content/uploads/2023/02/Track-your-modern-SharePoint-site-usage-with-Google-Analytics.png" style="width:100%"/>
+<img src="https://samtech365.com/wp-content/uploads/2023/02/Track-your-modern-SharePoint-site-usage-with-Google-Analytics.png" style="width:100%"/>
 One of the recurrent requirements most business keep asking about, is how can I track the usage of my intranet, or sharepoint portals ?<br/>
 
 SharePoint Online (or On-Prem) provides a certain level of analytics, but, unless you are using a third party tools, the SharePoint Analytics are very basic and provide limited information.
